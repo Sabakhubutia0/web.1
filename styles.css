@@ -83,8 +83,15 @@ border-radius: 28px;
 
 
 
+/* section css */
 
-
+section {
+	padding-bottom: 50em;
+	margin: 50px;
+}
+  .box {
+	margin-top: 100px;
+  }
 
 .first-img {
 
